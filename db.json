@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "user1",
+      "password": "user1",
+      "name": "Пользоваель 1"
+    },
+    {
+      "id": 2,
+      "login": "user2",
+      "password": "user2",
+      "name": "Пользоваель 2"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "phone": "+7(924)456-84-54",
+      "name": "Alexandr",
+      "description": "Aliqua cillum sint dolore deserunt sunt voluptate dolore excepteur eu esse."
+    },
+    {
+      "id": 2,
+      "phone": "+7(924)456-84-57",
+      "name": "Bart simp",
+      "description": "Ut laborum pariatur id velit reprehenderit exercitation duis nostrud aliquip amet sit."
+    },
+    {
+      "id": 3,
+      "phone": "+7(924)485-47-42",
+      "name": "Yoyo",
+      "description": "Cupidatat elit mollit id laboris exercitation ad eu laboris aute fugiat est."
+    },
+    {
+      "id": 6,
+      "phone": "+7(924)784-65-45",
+      "name": "John",
+      "description": "Qui nostrud fugiat duis consectetur excepteur ipsum laborum."
+    },
+    {
+      "id": 7,
+      "phone": "+7(924)456-45-65",
+      "name": "Jack",
+      "description": "Occaecat eu commodo ea mollit nulla esse fugiat eu eu proident aliquip labore est."
+    },
+    {
+      "id": 8,
+      "phone": "+7(924)631-31-32",
+      "name": "Lock",
+      "description": "Nisi do reprehenderit Lorem deserunt commodo pariatur nulla ipsum sunt enim."
+    },
+    {
+      "id": 9,
+      "phone": "+7(924)651-32-13",
+      "name": "Billy",
+      "description": "Do duis sit aliqua in Lorem consequat ut exercitation in ea non officia ut."
+    }
+  ]
+}
